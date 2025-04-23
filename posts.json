@@ -1,0 +1,274 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "New Feature Release: Enhanced Analytics Dashboard",
+      "content": "We're excited to announce the release of our enhanced analytics dashboard. This new feature provides deeper insights into your data with improved visualization tools and real-time updates. The dashboard now includes customizable widgets, advanced filtering options, and export capabilities.",
+      "excerpt": "Introducing our new analytics dashboard with enhanced features and capabilities.",
+      "images": [
+        "/IMG_0661.JPG",
+        "/IMG_1485.jpeg"
+      ],
+      "imageAlts": [
+        "Enhanced Analytics Dashboard Overview",
+        "Detailed Analytics Dashboard Features"
+      ],
+      "author": "Product Team",
+      "publishDate": "2024-03-20",
+      "category": "Product Updates",
+      "tags": ["Analytics", "Dashboard", "New Features"],
+      "type": "update",
+      "slug": "new-analytics-dashboard",
+      "metaTitle": "Enhanced Analytics Dashboard - New Features and Capabilities",
+      "metaDescription": "Discover our new analytics dashboard with improved visualization tools, real-time updates, and customizable widgets. Get deeper insights into your data.",
+      "metaKeywords": ["analytics dashboard", "data visualization", "real-time updates", "customizable widgets", "data insights"],
+      "canonicalUrl": "https://yourdomain.com/updates/new-analytics-dashboard",
+      "ogImage": "/IMG_0661.JPG",
+      "ogDescription": "Introducing our enhanced analytics dashboard with powerful new features for better data visualization and insights.",
+      "twitterCard": "summary_large_image",
+      "twitterImage": "/IMG_0661.JPG",
+      "twitterDescription": "New analytics dashboard with enhanced features and capabilities",
+      "readTime": 3,
+      "featured": true,
+      "lastModified": "2024-03-20",
+      "relatedPosts": [2, 3],
+      "status": "published",
+      "language": "en",
+      "schema": {
+        "@type": "Article",
+        "headline": "New Feature Release: Enhanced Analytics Dashboard",
+        "image": "/IMG_0661.JPG",
+        "author": {
+          "@type": "Organization",
+          "name": "Product Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Your Company Name",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "/images/logo.png"
+          }
+        },
+        "datePublished": "2024-03-20",
+        "dateModified": "2024-03-20"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Company Milestone: 1 Million Users",
+      "content": "We're thrilled to announce that we've reached 1 million active users! This milestone represents the trust and support of our growing community. We want to thank all our users for their continued support and feedback that helps us improve our platform every day.",
+      "excerpt": "Celebrating our 1 million user milestone and looking forward to future growth.",
+      "images": [
+        "/a.jpeg",
+        "/IMG_1485.jpeg"
+      ],
+      "imageAlts": [
+        "1 Million Users Celebration",
+        "User Growth Milestone Achievement"
+      ],
+      "author": "CEO",
+      "publishDate": "2024-03-19",
+      "category": "Company News",
+      "tags": ["Milestone", "Growth", "Community"],
+      "type": "update",
+      "slug": "1-million-users",
+      "metaTitle": "1 Million Users Milestone - Celebrating Our Growing Community",
+      "metaDescription": "We've reached 1 million active users! Join us in celebrating this significant milestone and learn about our journey of growth and community building.",
+      "metaKeywords": ["user milestone", "company growth", "community", "user base", "achievement"],
+      "canonicalUrl": "https://yourdomain.com/updates/1-million-users",
+      "ogImage": "/a.jpeg",
+      "ogDescription": "Celebrating 1 million active users - a testament to our growing community and platform success.",
+      "twitterCard": "summary_large_image",
+      "twitterImage": "/a.jpeg",
+      "twitterDescription": "We've reached 1 million users! Join us in celebrating this milestone.",
+      "readTime": 2,
+      "featured": true,
+      "lastModified": "2024-03-19",
+      "relatedPosts": [1, 5],
+      "status": "published",
+      "language": "en",
+      "schema": {
+        "@type": "Article",
+        "headline": "Company Milestone: 1 Million Users",
+        "image": "/a.jpeg",
+        "author": {
+          "@type": "Organization",
+          "name": "CEO"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Your Company Name",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "/images/logo.png"
+          }
+        },
+        "datePublished": "2024-03-19",
+        "dateModified": "2024-03-19"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Getting Started with Angular",
+      "content": "Angular is a powerful framework for building web applications. It provides a robust set of tools and features that make it easy to create scalable, maintainable applications. In this post, we'll explore the basics of Angular and how to get started with your first application.",
+      "excerpt": "Learn the basics of Angular and how to create your first application.",
+      "images": [
+        "/IMG_0661.JPG",
+        "/Earthquake.png"
+      ],
+      "imageAlts": [
+        "Angular Framework Overview",
+        "Angular Development Environment Setup"
+      ],
+      "author": "John Doe",
+      "publishDate": "2024-03-18",
+      "category": "Development",
+      "tags": ["Angular", "Web Development", "JavaScript"],
+      "type": "blog",
+      "slug": "getting-started-angular",
+      "metaTitle": "Getting Started with Angular - A Comprehensive Guide",
+      "metaDescription": "Learn the fundamentals of Angular development. This comprehensive guide covers everything you need to know to start building web applications with Angular.",
+      "metaKeywords": ["Angular", "Web Development", "JavaScript", "Frontend", "Framework", "Tutorial"],
+      "canonicalUrl": "https://yourdomain.com/blog/getting-started-angular",
+      "ogImage": "/IMG_0661.JPG",
+      "ogDescription": "A comprehensive guide to getting started with Angular development. Learn the basics and start building your first application.",
+      "twitterCard": "summary_large_image",
+      "twitterImage": "/IMG_0661.JPG",
+      "twitterDescription": "Get started with Angular development - A comprehensive guide for beginners",
+      "readTime": 5,
+      "featured": false,
+      "lastModified": "2024-03-18",
+      "relatedPosts": [4],
+      "status": "published",
+      "language": "en",
+      "schema": {
+        "@type": "Article",
+        "headline": "Getting Started with Angular",
+        "image": "/IMG_0661.JPG",
+        "author": {
+          "@type": "Person",
+          "name": "John Doe"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Your Company Name",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "/images/logo.png"
+          }
+        },
+        "datePublished": "2024-03-18",
+        "dateModified": "2024-03-18"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Best Practices for Modern Web Design",
+      "content": "Modern web design focuses on user experience and accessibility. With the increasing importance of mobile devices and the need for inclusive design, developers and designers must stay up to date with the latest trends and best practices. This post covers essential principles for creating effective web designs.",
+      "excerpt": "Discover the latest trends and best practices in web design.",
+      "images": [
+        "/IMG_1485.jpeg",
+        "/Earthquake.png"
+      ],
+      "imageAlts": [
+        "Modern Web Design Principles",
+        "Responsive Design Examples"
+      ],
+      "author": "Jane Smith",
+      "publishDate": "2024-03-17",
+      "category": "Design",
+      "tags": ["Web Design", "UI/UX", "Design Systems"],
+      "type": "blog",
+      "slug": "modern-web-design-practices",
+      "metaTitle": "Modern Web Design Best Practices - A Complete Guide",
+      "metaDescription": "Explore the latest trends and best practices in modern web design. Learn about user experience, accessibility, and responsive design principles.",
+      "metaKeywords": ["Web Design", "UI/UX", "Design Systems", "Accessibility", "Responsive Design"],
+      "canonicalUrl": "https://yourdomain.com/blog/modern-web-design-practices",
+      "ogImage": "/IMG_1485.jpeg",
+      "ogDescription": "A comprehensive guide to modern web design best practices, focusing on user experience and accessibility.",
+      "twitterCard": "summary_large_image",
+      "twitterImage": "/IMG_1485.jpeg",
+      "twitterDescription": "Modern web design best practices - A guide to creating effective web experiences",
+      "readTime": 8,
+      "featured": false,
+      "lastModified": "2024-03-17",
+      "relatedPosts": [3],
+      "status": "published",
+      "language": "en",
+      "schema": {
+        "@type": "Article",
+        "headline": "Best Practices for Modern Web Design",
+        "image": "/IMG_1485.jpeg",
+        "author": {
+          "@type": "Person",
+          "name": "Jane Smith"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Your Company Name",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "/images/logo.png"
+          }
+        },
+        "datePublished": "2024-03-17",
+        "dateModified": "2024-03-17"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Industry Recognition: Best Innovation Award 2024",
+      "content": "We're proud to announce that we've received the Best Innovation Award 2024 for our groundbreaking technology solutions. This recognition validates our commitment to pushing the boundaries of what's possible in our industry.",
+      "excerpt": "Celebrating our Best Innovation Award 2024 achievement.",
+      "images": [
+        "/Earthquake.png",
+        "/IMG_0661.JPG"
+      ],
+      "imageAlts": [
+        "Best Innovation Award 2024 Ceremony",
+        "Award Presentation and Team Celebration"
+      ],
+      "author": "Marketing Team",
+      "publishDate": "2024-03-16",
+      "category": "Awards",
+      "tags": ["Awards", "Innovation", "Recognition"],
+      "type": "update",
+      "slug": "best-innovation-award-2024",
+      "metaTitle": "Best Innovation Award 2024 - Industry Recognition",
+      "metaDescription": "We're honored to receive the Best Innovation Award 2024 for our groundbreaking technology solutions. Learn about our commitment to innovation.",
+      "metaKeywords": ["Innovation Award", "Industry Recognition", "Technology Solutions", "Achievement", "Awards"],
+      "canonicalUrl": "https://yourdomain.com/updates/best-innovation-award-2024",
+      "ogImage": "/Earthquake.png",
+      "ogDescription": "Celebrating our Best Innovation Award 2024 achievement and commitment to technological advancement.",
+      "twitterCard": "summary_large_image",
+      "twitterImage": "/Earthquake.png",
+      "twitterDescription": "Proud recipients of the Best Innovation Award 2024!",
+      "readTime": 2,
+      "featured": true,
+      "lastModified": "2024-03-16",
+      "relatedPosts": [1, 2],
+      "status": "published",
+      "language": "en",
+      "schema": {
+        "@type": "Article",
+        "headline": "Industry Recognition: Best Innovation Award 2024",
+        "image": "/Earthquake.png",
+        "author": {
+          "@type": "Organization",
+          "name": "Marketing Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Your Company Name",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "/images/logo.png"
+          }
+        },
+        "datePublished": "2024-03-16",
+        "dateModified": "2024-03-16"
+      }
+    }
+  ]
+}
