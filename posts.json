@@ -269,6 +269,60 @@
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16"
       }
+    },
+    {
+      "id": 6,
+      "title": "testtesttesttesttesttesttesttesttest",
+      "content": "We're proud to announce that we've received the Best Innovation Award 2024 for our groundbreaking technology solutions. This recognition validates our commitment to pushing the boundaries of what's possible in our industry.",
+      "excerpt": "Celebrating our Best Innovation Award 2024 achievement.",
+      "images": [
+        "/Earthquake.png",
+        "/IMG_0661.JPG"
+      ],
+      "imageAlts": [
+        "Best Innovation Award 2024 Ceremony",
+        "Award Presentation and Team Celebration"
+      ],
+      "author": "Marketing Team",
+      "publishDate": "2024-03-16",
+      "category": "Awards",
+      "tags": ["Awards", "Innovation", "Recognition"],
+      "type": "update",
+      "slug": "best-innovation-award-2024",
+      "metaTitle": "Best Innovation Award 2024 - Industry Recognition",
+      "metaDescription": "We're honored to receive the Best Innovation Award 2024 for our groundbreaking technology solutions. Learn about our commitment to innovation.",
+      "metaKeywords": ["Innovation Award", "Industry Recognition", "Technology Solutions", "Achievement", "Awards"],
+      "canonicalUrl": "https://yourdomain.com/updates/best-innovation-award-2024",
+      "ogImage": "/Earthquake.png",
+      "ogDescription": "Celebrating our Best Innovation Award 2024 achievement and commitment to technological advancement.",
+      "twitterCard": "summary_large_image",
+      "twitterImage": "/Earthquake.png",
+      "twitterDescription": "Proud recipients of the Best Innovation Award 2024!",
+      "readTime": 2,
+      "featured": true,
+      "lastModified": "2024-03-16",
+      "relatedPosts": [1, 2],
+      "status": "published",
+      "language": "en",
+      "schema": {
+        "@type": "Article",
+        "headline": "Industry Recognition: Best Innovation Award 2024",
+        "image": "/Earthquake.png",
+        "author": {
+          "@type": "Organization",
+          "name": "Marketing Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Your Company Name",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "/images/logo.png"
+          }
+        },
+        "datePublished": "2024-03-16",
+        "dateModified": "2024-03-16"
+      }
     }
   ]
 }
