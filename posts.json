@@ -323,6 +323,36 @@
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16"
       }
+    },
+    {
+      "id": 101,
+      "title": "東京で過ごす完璧な一日",
+      "content": "東京には、観光、食事、ショッピングを楽しむ場所が数多くあります。本記事では、朝から晩まで東京を満喫できるモデルプランをご紹介します。渋谷のスクランブル交差点からスタートし、浅草寺、築地市場、最後は六本木の夜景まで、あらゆるスポットを巡ります。",
+      "excerpt": "朝から晩まで楽しめる、東京観光の完璧なプランをご紹介します。",
+      "images": ["https://images.unsplash.com/photo-1"],
+      "imageAlts": ["東京の街並み"],
+      "author": "田中 花子",
+      "publishDate": "2025-04-20T10:00:00.000Z",
+      "category": "旅行",
+      "tags": ["東京", "観光", "旅行", "一日プラン"],
+      "type": "blog",
+      "slug": "perfect-day-in-tokyo",
+      "metaTitle": "東京で過ごす完璧な一日 | 日本旅行ガイド",
+      "metaDescription": "東京観光を一日で満喫するプランを完全ガイド形式でご紹介。",
+      "metaKeywords": ["東京", "旅行", "観光", "日本"],
+      "canonicalUrl": "https://example.com/posts/perfect-day-in-tokyo",
+      "ogImage": "https://images.unsplash.com/photo-1",
+      "ogDescription": "東京の観光、食、文化を一日で楽しむ方法をご紹介します。",
+      "twitterCard": "summary_large_image",
+      "twitterImage": "https://images.unsplash.com/photo-1",
+      "twitterDescription": "東京観光モデルプラン：1日で巡る人気スポット",
+      "readTime": 8,
+      "featured": true,
+      "lastModified": "2025-04-22T09:00:00.000Z",
+      "relatedPosts": [4, 12, 45],
+      "status": "published",
+      "language": "ja",
+      "schema": {}
     }
   ]
 }
