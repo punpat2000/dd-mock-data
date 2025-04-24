@@ -435,6 +435,60 @@
       "status": "published",
       "language": "ja",
       "schema": {}
+    },
+    {
+      "id": 1122,
+      "title": "New Feature Release: Enhanced Analytics Dashboard",
+      "content": "We're excited to announce the release of our enhanced analytics dashboard. This new feature provides deeper insights into your data with improved visualization tools and real-time updates. The dashboard now includes customizable widgets, advanced filtering options, and export capabilities.",
+      "excerpt": "Introducing our new analytics dashboard with enhanced features and capabilities.",
+      "images": [
+        "/IMG_0661.JPG",
+        "/IMG_1485.jpeg"
+      ],
+      "imageAlts": [
+        "Enhanced Analytics Dashboard Overview",
+        "Detailed Analytics Dashboard Features"
+      ],
+      "author": "Product Team",
+      "publishDate": "2024-03-20",
+      "category": "Product Updates",
+      "tags": ["Analytics", "Dashboard", "New Features"],
+      "type": "update",
+      "slug": "new-analytics-dashboard2",
+      "metaTitle": "Enhanced Analytics Dashboard - New Features and Capabilities",
+      "metaDescription": "Discover our new analytics dashboard with improved visualization tools, real-time updates, and customizable widgets. Get deeper insights into your data.",
+      "metaKeywords": ["analytics dashboard", "data visualization", "real-time updates", "customizable widgets", "data insights"],
+      "canonicalUrl": "https://yourdomain.com/updates/new-analytics-dashboard",
+      "ogImage": "/IMG_0661.JPG",
+      "ogDescription": "Introducing our enhanced analytics dashboard with powerful new features for better data visualization and insights.",
+      "twitterCard": "summary_large_image",
+      "twitterImage": "/IMG_0661.JPG",
+      "twitterDescription": "New analytics dashboard with enhanced features and capabilities",
+      "readTime": 3,
+      "featured": true,
+      "lastModified": "2024-03-20",
+      "relatedPosts": [2, 3],
+      "status": "published",
+      "language": "en",
+      "schema": {
+        "@type": "Article",
+        "headline": "New Feature Release: Enhanced Analytics Dashboard",
+        "image": "/IMG_0661.JPG",
+        "author": {
+          "@type": "Organization",
+          "name": "Product Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Your Company Name",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "/images/logo.png"
+          }
+        },
+        "datePublished": "2024-03-20",
+        "dateModified": "2024-03-20"
+      }
     }
   ]
 }
