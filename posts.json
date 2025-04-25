@@ -489,6 +489,58 @@
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20"
       }
-    }
+    },
+    {
+      "id": 104,
+      "title": "เคสท่อตันในโรงงานจากเศษสิ่งปฏิกูลสะสมหลายปี",
+      "content": "Dr. DRAIN ได้รับแจ้งจากโรงงานย่านบางพลีว่าท่อระบายน้ำบริเวณพื้นโรงงานตัน ทำให้น้ำเสียไม่สามารถระบายออกได้ และเกิดการท่วมขังในช่วงฝนตก<br><br>เมื่อเข้าตรวจสอบ พบว่าในท่อมีเศษสิ่งปฏิกูล สบู่ ไขมัน และเศษผงขัดพื้นสะสมมาเป็นเวลาหลายปี จนเกิดเป็นก้อนแข็งอุดตันท่อระบายน้ำความยาวกว่า 4 เมตร<br><br>ทีมงาน Dr. DRAIN ใช้เครื่อง Jet Blasting แรงดันสูงเพื่อเข้าไปสลายก้อนอุดตัน จากนั้นจึงใช้เครื่องดูดตะกอนดูดสิ่งสกปรกออกมาได้มากกว่า 12 กิโลกรัม<br><br>ภายหลังการลอกท่อ น้ำในโรงงานสามารถระบายได้ตามปกติ ลดความเสี่ยงน้ำขังและกลิ่นไม่พึงประสงค์ พร้อมแนะนำให้ลูกค้าล้างท่อทุก 1-2 ปี เพื่อป้องกันการอุดตันสะสมซ้ำอีกในอนาคต<br><br>หากท่านใดประสบปัญหาท่อตันทั้งในบ้านหรือโรงงาน สามารถติดต่อ Dr. DRAIN เพื่อวิเคราะห์ต้นตอและแก้ปัญหาได้อย่างตรงจุด<br>โทร: 081-454-5844<br>LINE ID: @drdrain หรือ https://page.line.me/drdrain<br>(บริการออกใบกำกับภาษีได้)",
+      "excerpt": "เคสลอกท่อโรงงาน – Dr. DRAIN แก้ปัญหาท่อตันจากเศษสบู่และไขมันสะสมกว่า 12 กก.",
+      "images": [
+        "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog2.png"
+      ],
+      "imageAlts": [
+        "เครื่อง Jet Blasting ลอกท่อในโรงงาน"
+      ],
+      "author": "ทีมงาน Dr. DRAIN",
+      "publishDate": "2025-03-11T00:00:00.000Z",
+      "category": "เคสหน้างาน",
+      "tags": ["ท่อตัน", "โรงงาน", "Jet Blasting", "ลอกท่อ", "ท่อน้ำเสีย", "บางพลี"],
+      "type": "update",
+      "slug": "factory-drain-blockage-case",
+      "metaTitle": "เคสท่อตันในโรงงาน – Dr. DRAIN ลอกท่อสะสมสิ่งสกปรกกว่า 12 กก.",
+      "metaDescription": "กรณีศึกษาท่อตันในโรงงานจากเศษสบู่ ไขมัน และเศษขัดพื้นสะสม Dr. DRAIN ใช้ Jet Blasting แก้ไขได้ตรงจุด น้ำระบายได้ปกติ",
+      "metaKeywords": ["ท่อตันโรงงาน", "Jet Blasting", "ลอกท่อ", "ท่อระบายน้ำ", "Dr. DRAIN", "บางพลี"],
+      "canonicalUrl": "https://yourdomain.com/updates/factory-drain-blockage-case",
+      "ogImage": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog2.png",
+      "ogDescription": "ลอกท่อในโรงงานย่านบางพลี – Dr. DRAIN ใช้ Jet Blasting แก้ปัญหาเศษสะสมอุดตันท่อกว่า 4 เมตร",
+      "twitterCard": "summary_large_image",
+      "twitterImage": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog2.png",
+      "twitterDescription": "เคสท่อตันโรงงานย่านบางพลี Dr. DRAIN แก้ไขด้วย Jet Blasting อย่างตรงจุด",
+      "readTime": 4,
+      "featured": false,
+      "lastModified": "2025-03-11T00:00:00.000Z",
+      "relatedPosts": [102],
+      "status": "published",
+      "language": "th",
+      "schema": {
+        "@type": "Article",
+        "headline": "เคสท่อตันในโรงงานจากเศษสิ่งปฏิกูลสะสมหลายปี",
+        "image": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog2.png",
+        "author": {
+          "@type": "Organization",
+          "name": "Dr. DRAIN"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Dr. DRAIN",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "/images/logo.png"
+          }
+        },
+        "datePublished": "2025-03-11T00:00:00.000Z",
+        "dateModified": "2025-03-11T00:00:00.000Z"
+      }
+    }    
   ]
 }
