@@ -1,546 +1,73 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "New Feature Release: Enhanced Analytics Dashboard",
-      "content": "We're excited to announce the release of our enhanced analytics dashboard. This new feature provides deeper insights into your data with improved visualization tools and real-time updates. The dashboard now includes customizable widgets, advanced filtering options, and export capabilities.",
-      "excerpt": "Introducing our new analytics dashboard with enhanced features and capabilities.",
+      "id": 3,
+      "title": "เคสน้ำรั่วจากโครงสร้างโรงแรมย่านตลาดพลู – ตรวจเจอทุกจุดโดยไม่ต้องสกัดสุ่ม",
+      "content": "พามาดูเคสโรงแรมกันบ้าง เมื่อวันจันทร์ที่ 17 มี.ค. 68 ทาง Dr. DRAIN ได้เข้าไปตรวจสอบที่โรงแรมแห่งหนึ่งย่านตลาดพลู ทางโรงแรมแจ้งว่าไม่ได้มีการเปิดใช้งานมาหลายปี จากการตรวจสอบเบื้องต้นพบน้ำรั่วหลายจุดบริเวณฝ้าชั้น 2 โดยน้ำรั่วมาจากโครงสร้างคอนกรีต แต่ไม่ทราบตำแหน่งที่ชัดเจนว่ารั่วจากจุดไหน<br><br>หลังจากตรวจสอบแล้ว ทีมช่างของ Dr. DRAIN คาดว่าน้ำน่าจะรั่วมาจากท่อในห้องน้ำภายในห้องพักหลายห้องบนชั้น 3 ของอาคาร ดังนั้นทาง Dr. DRAIN จึงจำเป็นที่จะต้องตรวจสอบท่อทีละห้องอย่างละเอียด โดยแบ่งการทำงานออกเป็น 3 ขั้นตอนคือ<br>1. ตรวจสอบว่าแต่ละห้องมีจุดรั่วหรือไม่ โดยใช้เครื่องมือวัดแรงดันน้ำ ถ้าแรงดันตกแสดงว่ามีจุดรั่ว<br>2. ค้นหาตำแหน่งท่อที่ฝังอยู่ข้างในผนังทั้งหมดเพื่อให้ทราบขอบเขตการทำงาน<br>3. ใช้เครื่องมือเฉพาะทางเพื่อค้นหาว่าจุดไหนของท่อแต่ละเส้นที่มีโอกาสรั่ว<br><br>หลังจากตรวจสอบทั้งหมด ทาง Dr. DRAIN สามารถระบุห้องและตำแหน่งที่มีปัญหาได้อย่างชัดเจน และได้เสนอวิธีการแก้ไขให้เหมาะสมกับปัญหาของแต่ละจุดดังนี้<br>1. น้ำรั่วตรงชุดอุปกรณ์วาล์วฝักบัวประเภทฝังผนัง → ไม่จำเป็นต้องสกัดผนังออกมา แต่ต้องถอดอุปกรณ์ออกมาซ่อม<br>2. น้ำรั่วตรงท่อกัลวาไนซ์ → จำเป็นต้องสกัดผนังออกเพื่อซ่อมท่อ<br>3. น้ำรั่วตรงลูกกบชักโครก → จำเป็นต้องเปลี่ยนอะไหล่ลูกกบ<br>4. ไฟรั่วจากเครื่องทำน้ำร้อนลงน้ำ → ต้องตรวจสอบเครื่องทำน้ำร้อนและชุดสายไฟ<br><br>จากการตรวจสอบของ Dr. DRAIN ทำให้ทางโรมแรมสามารถระบุจุดที่ต้องแก้ไขน้ำรั่วได้อย่างชัดเจน และลดความเสียหายจากการสกัดผนังโดยไม่จำเป็นได้ เพราะหากทางโรงแรมไม่ทราบตำแหน่งที่รั่ว ทางโรมแรมอาจจะต้องไล่สกัดผนังหาจุดรั่วทุกที่รวมถึงจุดที่อาจจะไม่มีปัญหาด้วย<br><br>หากท่านใดสนใจใช้บริการแก้ปัญหาท่อตันได้อย่างตรงจุดและยั่งยืนด้วยนวัตกรรมจากต่างประเทศ สามารถติดต่อ Dr. DRAIN ได้ทาง Inbox หรือตามช่องทางการติดต่อด้านล่าง<br>เบอร์โทร: 081-454-5844<br>LINE ID: @drdrain หรือคลิกลิงก์ https://page.line.me/drdrain<br>(สามารถออกใบกำกับภาษีได้)",
+      "excerpt": "โรงแรมเก่าย่านตลาดพลูเจอน้ำรั่วหลายจุด Dr. DRAIN ใช้เทคโนโลยีตรวจหาจุดรั่วได้ตรงเป้า ลดการสกัดผนังโดยไม่จำเป็น",
       "images": [
-        "/IMG_0661.JPG",
-        "/IMG_1485.jpeg"
+        "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/3_1.webp"
       ],
       "imageAlts": [
-        "Enhanced Analytics Dashboard Overview",
-        "Detailed Analytics Dashboard Features"
+        "ภาพขณะตรวจสอบน้ำรั่วภายในโรงแรม"
       ],
-      "author": "Product Team",
-      "publishDate": "2024-03-20",
-      "category": "Product Updates",
-      "tags": ["Analytics", "Dashboard", "New Features"],
-      "type": "update",
-      "slug": "new-analytics-dashboard",
-      "metaTitle": "Enhanced Analytics Dashboard - New Features and Capabilities",
-      "metaDescription": "Discover our new analytics dashboard with improved visualization tools, real-time updates, and customizable widgets. Get deeper insights into your data.",
-      "metaKeywords": ["analytics dashboard", "data visualization", "real-time updates", "customizable widgets", "data insights"],
-      "canonicalUrl": "https://yourdomain.com/updates/new-analytics-dashboard",
-      "ogImage": "/IMG_0661.JPG",
-      "ogDescription": "Introducing our enhanced analytics dashboard with powerful new features for better data visualization and insights.",
+      "author": "ทีมงาน Dr. DRAIN",
+      "publishDate": "2025-03-22T00:00:00.000Z",
+      "tags": ["น้ำรั่ว", "กล้องส่องท่อ", "ตรวจสอบน้ำรั่ว", "โรงแรม", "ตลาดพลู"],
+      "slug": "hotel-leak-inspection-taladplu",
+      "metaTitle": "เคสโรงแรมตลาดพลู – ตรวจเจอน้ำรั่วตรงจุด ลดความเสียหายจากการสกัด",
+      "metaDescription": "Dr. DRAIN ตรวจพบตำแหน่งรั่วของท่อในโรงแรมเก่าโดยไม่ต้องสกัดผนังแบบสุ่ม พร้อมแนะนำวิธีซ่อมตรงจุด",
+      "metaKeywords": ["น้ำรั่ว", "ตรวจสอบท่อ", "กล้องส่องท่อ", "โรงแรมตลาดพลู", "Dr. DRAIN"],
+      "canonicalUrl": "https://firebase.google.com/blog/hotel-leak-inspection-taladplu",
+      "ogImage": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/3_1.webp",
       "twitterCard": "summary_large_image",
-      "twitterImage": "/IMG_0661.JPG",
-      "twitterDescription": "New analytics dashboard with enhanced features and capabilities",
-      "readTime": 3,
-      "featured": true,
-      "lastModified": "2024-03-20",
-      "relatedPosts": [2, 3],
-      "status": "published",
-      "language": "en",
-      "schema": {
-        "@type": "Article",
-        "headline": "New Feature Release: Enhanced Analytics Dashboard",
-        "image": "/IMG_0661.JPG",
-        "author": {
-          "@type": "Organization",
-          "name": "Product Team"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Your Company Name",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "/images/logo.png"
-          }
-        },
-        "datePublished": "2024-03-20",
-        "dateModified": "2024-03-20"
-      }
-    },
+      "readTime": 6
+    },    
     {
       "id": 2,
-      "title": "Company Milestone: 1 Million Users",
-      "content": "We're thrilled to announce that we've reached 1 million active users! This milestone represents the trust and support of our growing community. We want to thank all our users for their continued support and feedback that helps us improve our platform every day.",
-      "excerpt": "Celebrating our 1 million user milestone and looking forward to future growth.",
-      "images": [
-        "/a.jpeg",
-        "/IMG_1485.jpeg"
-      ],
-      "imageAlts": [
-        "1 Million Users Celebration",
-        "User Growth Milestone Achievement"
-      ],
-      "author": "CEO",
-      "publishDate": "2024-03-19",
-      "category": "Company News",
-      "tags": ["Milestone", "Growth", "Community"],
-      "type": "update",
-      "slug": "1-million-users",
-      "metaTitle": "1 Million Users Milestone - Celebrating Our Growing Community",
-      "metaDescription": "We've reached 1 million active users! Join us in celebrating this significant milestone and learn about our journey of growth and community building.",
-      "metaKeywords": ["user milestone", "company growth", "community", "user base", "achievement"],
-      "canonicalUrl": "https://yourdomain.com/updates/1-million-users",
-      "ogImage": "/a.jpeg",
-      "ogDescription": "Celebrating 1 million active users - a testament to our growing community and platform success.",
-      "twitterCard": "summary_large_image",
-      "twitterImage": "/a.jpeg",
-      "twitterDescription": "We've reached 1 million users! Join us in celebrating this milestone.",
-      "readTime": 2,
-      "featured": true,
-      "lastModified": "2024-03-19",
-      "relatedPosts": [1, 5],
-      "status": "published",
-      "language": "en",
-      "schema": {
-        "@type": "Article",
-        "headline": "Company Milestone: 1 Million Users",
-        "image": "/a.jpeg",
-        "author": {
-          "@type": "Organization",
-          "name": "CEO"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Your Company Name",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "/images/logo.png"
-          }
-        },
-        "datePublished": "2024-03-19",
-        "dateModified": "2024-03-19"
-      }
-    },
-    {
-      "id": 3,
-      "title": "Getting Started with Angular",
-      "content": "Angular is a powerful framework for building web applications. It provides a robust set of tools and features that make it easy to create scalable, maintainable applications. In this post, we'll explore the basics of Angular and how to get started with your first application.",
-      "excerpt": "Learn the basics of Angular and how to create your first application.",
-      "images": [
-        "/IMG_0661.JPG",
-        "/Earthquake.png"
-      ],
-      "imageAlts": [
-        "Angular Framework Overview",
-        "Angular Development Environment Setup"
-      ],
-      "author": "John Doe",
-      "publishDate": "2024-03-18",
-      "category": "Development",
-      "tags": ["Angular", "Web Development", "JavaScript"],
-      "type": "blog",
-      "slug": "getting-started-angular",
-      "metaTitle": "Getting Started with Angular - A Comprehensive Guide",
-      "metaDescription": "Learn the fundamentals of Angular development. This comprehensive guide covers everything you need to know to start building web applications with Angular.",
-      "metaKeywords": ["Angular", "Web Development", "JavaScript", "Frontend", "Framework", "Tutorial"],
-      "canonicalUrl": "https://yourdomain.com/blog/getting-started-angular",
-      "ogImage": "/IMG_0661.JPG",
-      "ogDescription": "A comprehensive guide to getting started with Angular development. Learn the basics and start building your first application.",
-      "twitterCard": "summary_large_image",
-      "twitterImage": "/IMG_0661.JPG",
-      "twitterDescription": "Get started with Angular development - A comprehensive guide for beginners",
-      "readTime": 5,
-      "featured": false,
-      "lastModified": "2024-03-18",
-      "relatedPosts": [4],
-      "status": "published",
-      "language": "en",
-      "schema": {
-        "@type": "Article",
-        "headline": "Getting Started with Angular",
-        "image": "/IMG_0661.JPG",
-        "author": {
-          "@type": "Person",
-          "name": "John Doe"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Your Company Name",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "/images/logo.png"
-          }
-        },
-        "datePublished": "2024-03-18",
-        "dateModified": "2024-03-18"
-      }
-    },
-    {
-      "id": 4,
-      "title": "Best Practices for Modern Web Design",
-      "content": "Modern web design focuses on user experience and accessibility. With the increasing importance of mobile devices and the need for inclusive design, developers and designers must stay up to date with the latest trends and best practices. This post covers essential principles for creating effective web designs.",
-      "excerpt": "Discover the latest trends and best practices in web design.",
-      "images": [
-        "/IMG_1485.jpeg",
-        "/Earthquake.png"
-      ],
-      "imageAlts": [
-        "Modern Web Design Principles",
-        "Responsive Design Examples"
-      ],
-      "author": "Jane Smith",
-      "publishDate": "2024-03-17",
-      "category": "Design",
-      "tags": ["Web Design", "UI/UX", "Design Systems"],
-      "type": "blog",
-      "slug": "modern-web-design-practices",
-      "metaTitle": "Modern Web Design Best Practices - A Complete Guide",
-      "metaDescription": "Explore the latest trends and best practices in modern web design. Learn about user experience, accessibility, and responsive design principles.",
-      "metaKeywords": ["Web Design", "UI/UX", "Design Systems", "Accessibility", "Responsive Design"],
-      "canonicalUrl": "https://yourdomain.com/blog/modern-web-design-practices",
-      "ogImage": "/IMG_1485.jpeg",
-      "ogDescription": "A comprehensive guide to modern web design best practices, focusing on user experience and accessibility.",
-      "twitterCard": "summary_large_image",
-      "twitterImage": "/IMG_1485.jpeg",
-      "twitterDescription": "Modern web design best practices - A guide to creating effective web experiences",
-      "readTime": 8,
-      "featured": false,
-      "lastModified": "2024-03-17",
-      "relatedPosts": [3],
-      "status": "published",
-      "language": "en",
-      "schema": {
-        "@type": "Article",
-        "headline": "Best Practices for Modern Web Design",
-        "image": "/IMG_1485.jpeg",
-        "author": {
-          "@type": "Person",
-          "name": "Jane Smith"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Your Company Name",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "/images/logo.png"
-          }
-        },
-        "datePublished": "2024-03-17",
-        "dateModified": "2024-03-17"
-      }
-    },
-    {
-      "id": 5,
-      "title": "Industry Recognition: Best Innovation Award 2024",
-      "content": "We're proud to announce that we've received the Best Innovation Award 2024 for our groundbreaking technology solutions. This recognition validates our commitment to pushing the boundaries of what's possible in our industry.",
-      "excerpt": "Celebrating our Best Innovation Award 2024 achievement.",
-      "images": [
-        "/Earthquake.png",
-        "/IMG_0661.JPG"
-      ],
-      "imageAlts": [
-        "Best Innovation Award 2024 Ceremony",
-        "Award Presentation and Team Celebration"
-      ],
-      "author": "Marketing Team",
-      "publishDate": "2024-03-16",
-      "category": "Awards",
-      "tags": ["Awards", "Innovation", "Recognition"],
-      "type": "update",
-      "slug": "best-innovation-award-2024",
-      "metaTitle": "Best Innovation Award 2024 - Industry Recognition",
-      "metaDescription": "We're honored to receive the Best Innovation Award 2024 for our groundbreaking technology solutions. Learn about our commitment to innovation.",
-      "metaKeywords": ["Innovation Award", "Industry Recognition", "Technology Solutions", "Achievement", "Awards"],
-      "canonicalUrl": "https://yourdomain.com/updates/best-innovation-award-2024",
-      "ogImage": "/Earthquake.png",
-      "ogDescription": "Celebrating our Best Innovation Award 2024 achievement and commitment to technological advancement.",
-      "twitterCard": "summary_large_image",
-      "twitterImage": "/Earthquake.png",
-      "twitterDescription": "Proud recipients of the Best Innovation Award 2024!",
-      "readTime": 2,
-      "featured": true,
-      "lastModified": "2024-03-16",
-      "relatedPosts": [1, 2],
-      "status": "published",
-      "language": "en",
-      "schema": {
-        "@type": "Article",
-        "headline": "Industry Recognition: Best Innovation Award 2024",
-        "image": "/Earthquake.png",
-        "author": {
-          "@type": "Organization",
-          "name": "Marketing Team"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Your Company Name",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "/images/logo.png"
-          }
-        },
-        "datePublished": "2024-03-16",
-        "dateModified": "2024-03-16"
-      }
-    },
-    {
-      "id": 6,
-      "title": "testtesttesttesttesttesttesttesttest",
-      "content": "We're proud to announce that we've received the Best Innovation Award 2024 for our groundbreaking technology solutions. This recognition validates our commitment to pushing the boundaries of what's possible in our industry.",
-      "excerpt": "Celebrating our Best Innovation Award 2024 achievement.",
-      "images": [
-        "/Earthquake.png",
-        "/IMG_0661.JPG"
-      ],
-      "imageAlts": [
-        "Best Innovation Award 2024 Ceremony",
-        "Award Presentation and Team Celebration"
-      ],
-      "author": "Marketing Team",
-      "publishDate": "2024-03-16",
-      "category": "Awards",
-      "tags": ["Awards", "Innovation", "Recognition"],
-      "type": "update",
-      "slug": "test",
-      "metaTitle": "Best Innovation Award 2024 - Industry Recognition",
-      "metaDescription": "We're honored to receive the Best Innovation Award 2024 for our groundbreaking technology solutions. Learn about our commitment to innovation.",
-      "metaKeywords": ["Innovation Award", "Industry Recognition", "Technology Solutions", "Achievement", "Awards"],
-      "canonicalUrl": "https://yourdomain.com/updates/best-innovation-award-2024",
-      "ogImage": "/Earthquake.png",
-      "ogDescription": "Celebrating our Best Innovation Award 2024 achievement and commitment to technological advancement.",
-      "twitterCard": "summary_large_image",
-      "twitterImage": "/Earthquake.png",
-      "twitterDescription": "Proud recipients of the Best Innovation Award 2024!",
-      "readTime": 2,
-      "featured": true,
-      "lastModified": "2024-03-16",
-      "relatedPosts": [1, 2],
-      "status": "published",
-      "language": "en",
-      "schema": {
-        "@type": "Article",
-        "headline": "Industry Recognition: Best Innovation Award 2024",
-        "image": "/Earthquake.png",
-        "author": {
-          "@type": "Organization",
-          "name": "Marketing Team"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Your Company Name",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "/images/logo.png"
-          }
-        },
-        "datePublished": "2024-03-16",
-        "dateModified": "2024-03-16"
-      }
-    },
-    {
-      "id": 101,
-      "title": "東京で過ごす完璧な一日",
-      "content": "東京には、観光、食事、ショッピングを楽しむ場所が数多くあります。本記事では、朝から晩まで東京を満喫できるモデルプランをご紹介します。渋谷のスクランブル交差点からスタートし、浅草寺、築地市場、最後は六本木の夜景まで、あらゆるスポットを巡ります。",
-      "excerpt": "朝から晩まで楽しめる、東京観光の完璧なプランをご紹介します。",
-      "images": ["https://picsum.photos/200/300"],
-      "imageAlts": ["東京の街並み"],
-      "author": "田中 花子",
-      "publishDate": "2025-04-20T10:00:00.000Z",
-      "category": "旅行",
-      "tags": ["東京", "観光", "旅行", "一日プラン"],
-      "type": "blog",
-      "slug": "perfect-day-in-tokyo",
-      "metaTitle": "東京で過ごす完璧な一日 | 日本旅行ガイド",
-      "metaDescription": "東京観光を一日で満喫するプランを完全ガイド形式でご紹介。",
-      "metaKeywords": ["東京", "旅行", "観光", "日本"],
-      "canonicalUrl": "https://example.com/posts/perfect-day-in-tokyo",
-      "ogImage": "https://images.unsplash.com/photo-1",
-      "ogDescription": "東京の観光、食、文化を一日で楽しむ方法をご紹介します。",
-      "twitterCard": "summary_large_image",
-      "twitterImage": "https://images.unsplash.com/photo-1",
-      "twitterDescription": "東京観光モデルプラン：1日で巡る人気スポット",
-      "readTime": 8,
-      "featured": true,
-      "lastModified": "2025-04-22T09:00:00.000Z",
-      "relatedPosts": [4, 12, 45],
-      "status": "published",
-      "language": "ja",
-      "schema": {}
-    },
-    {
-      "id": 102,
       "title": "เคสซิงค์อุดตันจากท่อทรุดในบ้านย่านสวนหลวง ร.9",
       "content": "เคสนี้คุณลูกค้าอยู่แถวสวนหลวงร.9 บ้านคุณลูกค้าอายุ 5 ปี พบปัญหาซิงค์ล้างจานอุดตัน น้ำไม่ไหลลงท่อ ทาง Dr. DRAIN จึงได้เข้าไปตรวจสอบเมื่อวันที่ 1 มี.ค. 68 ที่ผ่านมา<br><br>จากการตรวจสอบพบว่าปัญหาเกิดจากท่อที่ทรุดภายในบ้าน มีปูนก่อสร้างตั้งแต่ตอนสร้างบ้านขวางบริเวณปากท่อ ทำให้ไขมันแทบไม่ไหลลงบ่อดักไขมันจนสะสมข้างในท่อมาตลอด 5 ปี<br><br>ทาง Dr. DRAIN จึงเสนอให้คุณลูกค้าใช้เครื่อง Jet Blasting (เครื่องฉีดน้ำแรงดันสูง) ซึ่งเป็นนวัตกรรมจากต่างประเทศที่ออกแบบมาสำหรับใช้แก้ปัญหาท่อตันโดยเฉพาะเข้าไปสลายก้อนไขมันและก้อนปูน จากนั้นจึงทำการตักออก<br><br>ซึ่งหลังจากเครื่อง Jet Blasting เข้าไปได้เพียง 1 เมตรจากซิงค์ล้างจานพบว่ามีไขมันและปูนกว่า 2 กิโลกรัม ในทางกลับกันตรงบ่อดักไขมันที่ควรจะมีไขมันอยู่กลับไม่พบเลย<br><br>หลังจากใช้บริการ Jet Blasting ของ Dr. DRAIN ทำให้น้ำไหลลงซิงค์ได้ตามปกติ และคุณลูกค้าได้ทราบถึงต้นตอของปัญหาว่าเกิดจากท่อที่ทรุดภายในบ้าน ซึ่งถ้าหากคุณลูกค้าเลือกที่จะไม่เดินท่อใหม่ (เนื่องจากค่าใช้จ่ายในการเดินท่อใหม่ค่อนข้างสูง) คุณลูกค้าก็จำเป็นที่จะต้องหมั่นล้างท่อเป็นระยะทุก ๆ 5 ปี เพื่อป้องกันไม่ให้เกิดปัญหาท่อตันอีกในอนาคต<br><br>หากท่านใดสนใจใช้บริการแก้ปัญหาท่อตันได้อย่างตรงจุดและยั่งยืนด้วยนวัตกรรมจากต่างประเทศ สามารถติดต่อ Dr. DRAIN ได้ทาง Inbox หรือตามช่องทางการติดต่อด้านล่าง<br>เบอร์โทร: 081-454-5844<br>LINE ID: @drdrain หรือคลิกลิงก์ https://page.line.me/drdrain<br>(สามารถออกใบกำกับภาษีได้)",
       "excerpt": "ท่อตันจากท่อทรุดในบ้านอายุ 5 ปี! Dr. DRAIN ใช้ Jet Blasting กำจัดไขมันและปูนหนักกว่า 2 กก. น้ำไหลลงท่อตามปกติอีกครั้ง",
       "images": [
-        "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog1.webp"
+        "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/2_1.webp"
       ],
       "imageAlts": [
         "ภาพขณะใช้เครื่อง Jet Blasting แก้ปัญหาท่อตัน"
       ],
       "author": "ทีมงาน Dr. DRAIN",
-      "publishDate": "2025-03-11T00:00:00.000Z",
-      "category": "เคสหน้างาน",
+      "publishDate": "2025-03-05T00:00:00.000Z",
       "tags": ["ท่อตัน", "Jet Blasting", "ซิงค์อุดตัน", "ไขมันสะสม", "บ่อดักไขมัน", "ท่อทรุด"],
-      "type": "update",
       "slug": "case-sink-block-suanluang",
       "metaTitle": "เคสซิงค์อุดตันจากท่อทรุด – Dr. DRAIN ใช้ Jet Blasting แก้ปัญหาได้ตรงจุด",
       "metaDescription": "บ้านอายุ 5 ปีเจอปัญหาท่อตันจากท่อทรุดสะสมไขมันและปูนกว่า 2 กก. Dr. DRAIN ใช้ Jet Blasting ช่วยให้น้ำไหลได้ตามปกติ",
       "metaKeywords": ["ท่อตัน", "Jet Blasting", "ซิงค์อุดตัน", "ท่อทรุด", "บ่อดักไขมัน", "Dr. DRAIN"],
-      "canonicalUrl": "https://yourdomain.com/updates/case-sink-block-suanluang",
-      "ogImage": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog1.webp",
-      "ogDescription": "กรณีศึกษาการใช้ Jet Blasting แก้ท่อตันจากท่อทรุดในบ้านย่านสวนหลวง ร.9 โดย Dr. DRAIN",
+      "canonicalUrl": "https://firebase.google.com/blog/case-sink-block-suanluang",
+      "ogImage": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/2_1.webp",
       "twitterCard": "summary_large_image",
-      "twitterImage": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog1.webp",
-      "twitterDescription": "กรณีศึกษา: ท่อตันจากท่อทรุดในบ้านอายุ 5 ปี แก้ด้วย Jet Blasting",
-      "readTime": 5,
-      "featured": false,
-      "lastModified": "2025-03-11T00:00:00.000Z",
-      "relatedPosts": [1, 5],
-      "status": "published",
-      "language": "th",
-      "schema": {
-        "@type": "Article",
-        "headline": "เคสซิงค์อุดตันจากท่อทรุดในบ้านย่านสวนหลวง ร.9",
-        "image": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog1.webp",
-        "author": {
-          "@type": "Organization",
-          "name": "Dr. DRAIN"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Dr. DRAIN",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "/images/logo.png"
-          }
-        },
-        "datePublished": "2025-03-11T00:00:00.000Z",
-        "dateModified": "2025-03-11T00:00:00.000Z"
-      }
+      "readTime": 5
     },
     {
-      "id": 104,
-      "title": "東京で過ごす完璧な一日",
-      "content": "東京には、観光、食事、ショッピングを楽しむ場所が数多くあります。本記事では、朝から晩まで東京を満喫できるモデルプランをご紹介します。渋谷のスクランブル交差点からスタートし、浅草寺、築地市場、最後は六本木の夜景まで、あらゆるスポットを巡ります。",
-      "excerpt": "朝から晩まで楽しめる、東京観光の完璧なプランをご紹介します。",
-      "images": ["https://picsum.photos/200/300"],
-      "imageAlts": ["東京の街並み"],
-      "author": "田中 花子",
-      "publishDate": "2025-04-20T10:00:00.000Z",
-      "category": "旅行",
-      "tags": ["東京", "観光", "旅行", "一日プラン"],
-      "type": "blog",
-      "slug": "perfect-day-in-tokyo2",
-      "metaTitle": "東京で過ごす完璧な一日 | 日本旅行ガイド",
-      "metaDescription": "東京観光を一日で満喫するプランを完全ガイド形式でご紹介。",
-      "metaKeywords": ["東京", "旅行", "観光", "日本"],
-      "canonicalUrl": "https://example.com/posts/perfect-day-in-tokyo",
-      "ogImage": "https://images.unsplash.com/photo-1",
-      "ogDescription": "東京の観光、食、文化を一日で楽しむ方法をご紹介します。",
-      "twitterCard": "summary_large_image",
-      "twitterImage": "https://images.unsplash.com/photo-1",
-      "twitterDescription": "東京観光モデルプラン：1日で巡る人気スポット",
-      "readTime": 8,
-      "featured": true,
-      "lastModified": "2025-04-22T09:00:00.000Z",
-      "relatedPosts": [4, 12, 45],
-      "status": "published",
-      "language": "ja",
-      "schema": {}
-    },
-    {
-      "id": 1122,
-      "title": "New Feature Release: Enhanced Analytics Dashboard",
-      "content": "We're excited to announce the release of our enhanced analytics dashboard. This new feature provides deeper insights into your data with improved visualization tools and real-time updates. The dashboard now includes customizable widgets, advanced filtering options, and export capabilities.",
-      "excerpt": "Introducing our new analytics dashboard with enhanced features and capabilities.",
+      "id": 1,
+      "title": "เคสกล้องส่องท่อพบท่อแตกจากงูเหล็กไฟฟ้าในบ้านย่านสมุทรปราการ",
+      "content": "เมื่อวันที่ 16 ก.พ. 68 ที่ผ่านมา ทาง Dr. DRAIN ได้รับการติดต่อจากคุณลูกค้าแถวอำเภอเมือง สมุทรปราการ คุณลูกค้ามีปัญหาส้วมตัน เคยเรียกช่างงูเหล็กเข้ามาแก้ปัญหาได้ไม่นานก็กลับมาตันอีก เป็นปัญหาเรื้อรังที่แก้ไม่หาย<br><br>Dr. DRAIN ได้เข้าไปตรวจสอบหน้างาน และเสนอให้ใช้กล้องเฉพาะทางส่องภายในท่อเพื่อดูลักษณะการวางท่อที่แตกต่างกันไปในแต่ละบ้านและเพื่อระบุต้นตอของปัญหา<br><br>เมื่อส่องกล้องตรวจสอบดูแล้วพบว่าที่ระยะ 6 เมตรจากส้วมมีความเสียหายที่เกิดขึ้นจากการใช้งูเหล็กไฟฟ้า ตัวท่อถูกปั่นจนแตกทำให้ท่อห้อยลงอยู่ในลักษณะที่เหลื่อมกันจนท่ออุดตัน<br><br>เคสนี้ทาง Dr. DRAIN ได้ยุติการทำงานที่ขั้นตอนนี้ เนื่องจากคุณลูกค้าต้องทุบพื้นเพื่อซ่อมท่อที่เสียหาย จึงจะแก้ปัญหาที่ต้นเหตุได้<br><br>จากการใช้บริการ Dr. DRAIN ในครั้งนี้ทำให้คุณลูกค้าสามารถระบุปัญหาที่ต้องแก้ไขได้อย่างตรงจุดและแม่นยำ รู้บริเวณที่ต้องทุบพื้นชัดเจน ช่วยในการลดค่าใช้จ่ายที่ไม่จำเป็นจากการทุบพื้นในบริเวณอื่น ๆ<br><br>หากท่านใดสนใจใช้บริการแก้ปัญหาท่อตันได้อย่างตรงจุดและยั่งยืนด้วยนวัตกรรมจากต่างประเทศ สามารถติดต่อ Dr. DRAIN ได้ทาง Inbox หรือตามช่องทางการติดต่อด้านล่าง<br>เบอร์โทร: 081-454-5844<br>LINE ID: @drdrain หรือคลิกลิงก์ https://page.line.me/drdrain<br>(สามารถออกใบกำกับภาษีได้)",
+      "excerpt": "กล้องส่องท่อเผยต้นตอส้วมตันจากท่อแตก! เคสบ้านย่านสมุทรปราการ Dr. DRAIN แนะซ่อมจุดเสียแทนทุบสุ่ม",
       "images": [
-        "/IMG_0661.JPG",
-        "/IMG_1485.jpeg"
+        "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/1_1.webp"
       ],
       "imageAlts": [
-        "Enhanced Analytics Dashboard Overview",
-        "Detailed Analytics Dashboard Features"
-      ],
-      "author": "Product Team",
-      "publishDate": "2024-03-20",
-      "category": "Product Updates",
-      "tags": ["Analytics", "Dashboard", "New Features"],
-      "type": "update",
-      "slug": "new-analytics-dashboard2",
-      "metaTitle": "Enhanced Analytics Dashboard - New Features and Capabilities",
-      "metaDescription": "Discover our new analytics dashboard with improved visualization tools, real-time updates, and customizable widgets. Get deeper insights into your data.",
-      "metaKeywords": ["analytics dashboard", "data visualization", "real-time updates", "customizable widgets", "data insights"],
-      "canonicalUrl": "https://yourdomain.com/updates/new-analytics-dashboard",
-      "ogImage": "/IMG_0661.JPG",
-      "ogDescription": "Introducing our enhanced analytics dashboard with powerful new features for better data visualization and insights.",
-      "twitterCard": "summary_large_image",
-      "twitterImage": "/IMG_0661.JPG",
-      "twitterDescription": "New analytics dashboard with enhanced features and capabilities",
-      "readTime": 3,
-      "featured": true,
-      "lastModified": "2024-03-20",
-      "relatedPosts": [2, 3],
-      "status": "published",
-      "language": "en",
-      "schema": {
-        "@type": "Article",
-        "headline": "New Feature Release: Enhanced Analytics Dashboard",
-        "image": "/IMG_0661.JPG",
-        "author": {
-          "@type": "Organization",
-          "name": "Product Team"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Your Company Name",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "/images/logo.png"
-          }
-        },
-        "datePublished": "2024-03-20",
-        "dateModified": "2024-03-20"
-      }
-    },
-    {
-      "id": 104,
-      "title": "เคสท่อตันในโรงงานจากเศษสิ่งปฏิกูลสะสมหลายปี",
-      "content": "Dr. DRAIN ได้รับแจ้งจากโรงงานย่านบางพลีว่าท่อระบายน้ำบริเวณพื้นโรงงานตัน ทำให้น้ำเสียไม่สามารถระบายออกได้ และเกิดการท่วมขังในช่วงฝนตก<br><br>เมื่อเข้าตรวจสอบ พบว่าในท่อมีเศษสิ่งปฏิกูล สบู่ ไขมัน และเศษผงขัดพื้นสะสมมาเป็นเวลาหลายปี จนเกิดเป็นก้อนแข็งอุดตันท่อระบายน้ำความยาวกว่า 4 เมตร<br><br>ทีมงาน Dr. DRAIN ใช้เครื่อง Jet Blasting แรงดันสูงเพื่อเข้าไปสลายก้อนอุดตัน จากนั้นจึงใช้เครื่องดูดตะกอนดูดสิ่งสกปรกออกมาได้มากกว่า 12 กิโลกรัม<br><br>ภายหลังการลอกท่อ น้ำในโรงงานสามารถระบายได้ตามปกติ ลดความเสี่ยงน้ำขังและกลิ่นไม่พึงประสงค์ พร้อมแนะนำให้ลูกค้าล้างท่อทุก 1-2 ปี เพื่อป้องกันการอุดตันสะสมซ้ำอีกในอนาคต<br><br>หากท่านใดประสบปัญหาท่อตันทั้งในบ้านหรือโรงงาน สามารถติดต่อ Dr. DRAIN เพื่อวิเคราะห์ต้นตอและแก้ปัญหาได้อย่างตรงจุด<br>โทร: 081-454-5844<br>LINE ID: @drdrain หรือ https://page.line.me/drdrain<br>(บริการออกใบกำกับภาษีได้)",
-      "excerpt": "เคสลอกท่อโรงงาน – Dr. DRAIN แก้ปัญหาท่อตันจากเศษสบู่และไขมันสะสมกว่า 12 กก.",
-      "images": [
-        "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog2.png"
-      ],
-      "imageAlts": [
-        "เครื่อง Jet Blasting ลอกท่อในโรงงาน"
+        "กล้องส่องภายในท่อเจอท่อแตกจากงูเหล็กไฟฟ้า"
       ],
       "author": "ทีมงาน Dr. DRAIN",
-      "publishDate": "2025-03-11T00:00:00.000Z",
-      "category": "เคสหน้างาน",
-      "tags": ["ท่อตัน", "โรงงาน", "Jet Blasting", "ลอกท่อ", "ท่อน้ำเสีย", "บางพลี"],
-      "type": "update",
-      "slug": "factory-drain-blockage-case",
-      "metaTitle": "เคสท่อตันในโรงงาน – Dr. DRAIN ลอกท่อสะสมสิ่งสกปรกกว่า 12 กก.",
-      "metaDescription": "กรณีศึกษาท่อตันในโรงงานจากเศษสบู่ ไขมัน และเศษขัดพื้นสะสม Dr. DRAIN ใช้ Jet Blasting แก้ไขได้ตรงจุด น้ำระบายได้ปกติ",
-      "metaKeywords": ["ท่อตันโรงงาน", "Jet Blasting", "ลอกท่อ", "ท่อระบายน้ำ", "Dr. DRAIN", "บางพลี"],
-      "canonicalUrl": "https://yourdomain.com/updates/factory-drain-blockage-case",
-      "ogImage": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog2.png",
-      "ogDescription": "ลอกท่อในโรงงานย่านบางพลี – Dr. DRAIN ใช้ Jet Blasting แก้ปัญหาเศษสะสมอุดตันท่อกว่า 4 เมตร",
+      "publishDate": "2025-02-16T00:00:00.000Z",
+      "tags": ["ส้วมตัน", "กล้องส่องท่อ", "งูเหล็ก", "ท่อแตก", "ท่อตันสมุทรปราการ"],
+      "slug": "case-inspection-camera-broken-pipe",
+      "metaTitle": "กล้องส่องท่อพบต้นเหตุส้วมตันจากท่อแตก – เคสบ้านย่านสมุทรปราการ",
+      "metaDescription": "กล้องตรวจสอบพบท่อแตกจากการใช้งูเหล็กไฟฟ้าในบ้านย่านสมุทรปราการ Dr. DRAIN ระบุตำแหน่งต้องทุบได้แม่นยำ ลดค่าใช้จ่ายซ่อม",
+      "metaKeywords": ["กล้องส่องท่อ", "ส้วมตัน", "งูเหล็ก", "ท่อแตก", "Dr. DRAIN"],
+      "canonicalUrl": "https://firebase.google.com/blog/case-inspection-camera-broken-pipe",
+      "ogImage": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/1_1.webp",
       "twitterCard": "summary_large_image",
-      "twitterImage": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog2.png",
-      "twitterDescription": "เคสท่อตันโรงงานย่านบางพลี Dr. DRAIN แก้ไขด้วย Jet Blasting อย่างตรงจุด",
-      "readTime": 4,
-      "featured": false,
-      "lastModified": "2025-03-11T00:00:00.000Z",
-      "relatedPosts": [102],
-      "status": "published",
-      "language": "th",
-      "schema": {
-        "@type": "Article",
-        "headline": "เคสท่อตันในโรงงานจากเศษสิ่งปฏิกูลสะสมหลายปี",
-        "image": "https://raw.githubusercontent.com/punpat2000/dd-mock-data/refs/heads/main/blog2.png",
-        "author": {
-          "@type": "Organization",
-          "name": "Dr. DRAIN"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Dr. DRAIN",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "/images/logo.png"
-          }
-        },
-        "datePublished": "2025-03-11T00:00:00.000Z",
-        "dateModified": "2025-03-11T00:00:00.000Z"
-      }
-    }    
+      "readTime": 4
+    }
   ]
 }
